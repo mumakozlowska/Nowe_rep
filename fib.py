@@ -4,3 +4,4 @@ def fib(number):
     elif number == 1:
         return 1
     return (fib(number-1)) + (fib(number-2))
+print("No i tak wlasnie")
